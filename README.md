@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" width="150px"/>
+## 👋🏽 Hi there! I'm Meri.
 
-### 👋🏽 Hi there! I'm Meri.
+<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" width="150px"/>
 
 👩🏻‍💻 I'm taking my first steps as a **Front-End Developer** (yay!) and have been working for over 10 years as a **Digital Marketing Specialist**. I'm curious about everything and love solving problems, which is why I have so much fun coding. 
 
