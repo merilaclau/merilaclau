@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" style="width:150px;"/>
+<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" width="150px"/>
 
 ### 👋🏽 Hi there! I'm Meri.
 
