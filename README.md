@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋🏽 Hi there! I'm Meri.
+
+<img src="https://media.giphy.com/media/K08z0ek0YyTmw/giphy.gif" alt="floating cat" align="right"/>
 
 <!--
 **merilaclau/merilaclau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
