@@ -6,13 +6,15 @@
 
 📜 I also have a Bachellors degree in Audiovisual Communications and am close to getting my Philosophy degree.
 
-🚀 I would love to join a creative team and build innovative mind-blowing solutions, so feel free to reach out!
+🚀 I'm looking to join a creative team and build innovative mind-blowing solutions, so feel free to reach out!
 
 📫 **How to reach me:** https://www.linkedin.com/in/maria-laclau/  
 
 🙋🏻‍♀️ **Pronouns:** she/her  
 
 ⚡ **Fun fact:** I love all animals and live with 5 beautiful crazy cats.
+
+✨ Thanks for stopping by!
 
 <!--
 **merilaclau/merilaclau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
