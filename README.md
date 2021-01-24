@@ -6,7 +6,7 @@
 
 📜  I also have a Bachellors degree in Audiovisual Communications and am close to getting my Philosophy degree.
 
-🚀  I'm looking to join a creative team and build innovative mind-blowing solutions, so feel free to reach out!
+🚀  I'm looking forward to joining a creative dev team and building innovative mind-blowing solutions, so feel free to reach out!
 
 📫  **How to reach me:** https://www.linkedin.com/in/maria-laclau/  
 
