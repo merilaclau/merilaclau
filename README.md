@@ -1,6 +1,8 @@
 ### 👋🏽 Hi there! I'm Meri.
 
-<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" style="max-width:25%"/>
+I'm taking my first steps as a Front-end developer and I'm loving it so far. 
+
+<img src="https://media.giphy.com/media/GGE9CDsizAqu4/giphy.gif" alt="psychedelic cat" align="right" style="max-width:25%;"/>
 
 <!--
 **merilaclau/merilaclau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
