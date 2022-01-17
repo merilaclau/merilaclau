@@ -4,7 +4,7 @@
 
 👩🏻‍💻  I currently work as a **Frontend Developer** but I have also worked for over 10 years as a **Digital Marketing Specialist** at Tech & Innovation companies and nonprofits. I'm curious about everything and love solving problems, which is why I have so much fun coding. 
 
-📜  I also have a Bachellors degree in Audiovisual Communications and am really close to getting my Philosophy degree.
+📜  I also have a Bachelor's degree in Audiovisual Communications and am really close to getting my Philosophy degree.
 
 🚀  I'm looking forward to joining a creative dev team and building innovative mind-blowing solutions, so feel free to reach out!
 
