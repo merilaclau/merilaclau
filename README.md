@@ -1,6 +1,6 @@
 ## 👋🏽 Hi there! I'm Meri.
 
-<img src="https://media.giphy.com/media/K08z0ek0YyTmw/giphy.gif" alt="psychedelic cat" align="right" width="20%"/>
+<img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" alt="cat sitting on laptop" align="right" width="20%"/>
 
 👩🏻‍💻  I currently work as a **Frontend Developer** but I have also worked for over 10 years as a **Digital Marketing Specialist** at Tech & Innovation companies and nonprofits. I'm curious about everything and love solving problems, which is why I have so much fun coding. 
 
